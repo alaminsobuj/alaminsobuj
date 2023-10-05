@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+PHP Developer ll CodeIgniter || Laravel || jQuery.
+Experienced Web Developer with a demonstrated history of working in the internet industry. Skilled in WordPr
+
 <!--
 **alaminsobuj/alaminsobuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
